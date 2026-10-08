@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__repo-search__search_code",
+      "mcp__repo-search__grep_code",
+      "mcp__repo-search__read_file"
+    ]
+  }
+}

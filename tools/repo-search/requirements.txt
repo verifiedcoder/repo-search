@@ -1,0 +1,4 @@
+sentence-transformers[image]>=6.1.0   # [image] adds torchvision + Pillow, which the model's processor imports even for text-only use
+mcp>=2,<3
+numpy
+tree-sitter-language-pack>=1.21
